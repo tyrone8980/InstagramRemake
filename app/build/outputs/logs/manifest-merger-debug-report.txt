@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\7c4d81db7729372b03d74fdbe75b703b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\4ff30a27fd454dddb17b48bc08f258e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\31b02cbfc3117d4bfa6c80764c315977\AndroidManifest.xml:2:1-11:12
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:10:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\cd3084d7b62740d735c97390409d10c2\AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\a1245d1180ab835daa48a1a4f4540596\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\c70b7a191bc7af0a1cf370232e31b8f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\d3e99a8eff085952396281b6276ccb58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\6d213bc0d32fe5bfc8c5cf6f92cdae78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\84f3f82aeb18c917ff0b7e4e39b7e0ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\a994cc07ab4368dc65e2963f5d547a61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\12419d9ea67f9b4dbde8f07cd73c829b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\52cad9ccb19aef27036e91282ff32ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\1ec0b51dfafdcc1891a660663d89034f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\3bbe3f134d560937cc4e7aa9c5ee501a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\390987d979868263949c7cda03e134bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\4b8df2019a4be9f2683d34e282b156bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b1f26100c6af193beddd6747bcfd85b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\6ef700831c10ef12cb01437df3784695\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\870224c0c5365cc59fb0cd547c81eea7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\4304f5b236cfbe8039ffd76dbf0720db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\1b18d58574dfcdab4d34a95ae93adda0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\74a7d2c3ab03cd5b34fce978351c631c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\7ee06c964ad1cd61b189c3693714534f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\efb6d8df82a07eb1dfacd0e35801d775\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\676e60929ca684441c50b0824a8a0947\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\3485a9afdc30f46d521c91086066eeaf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\99c06c2daf6b7ad88641c225adce2431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\87dd1ec98aae1054d70b7c2ba8cf8799\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9a8b9f2c7f02177b3fb931571106ca5c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3101c587d8e1cbc5c090263c0fb00018\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\17e596201abe3a10703a34e7b80b0d01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\351776a2b0e0fa58661b2b2ad2ff2ab7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\bf3eda55ff6e2261d3f0a8a381057ed7\AndroidManifest.xml:17:1-25:12
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:19:5-67
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:7:5-37:19
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\7c4d81db7729372b03d74fdbe75b703b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\7c4d81db7729372b03d74fdbe75b703b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\31b02cbfc3117d4bfa6c80764c315977\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\31b02cbfc3117d4bfa6c80764c315977\AndroidManifest.xml:9:5-20
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\cd3084d7b62740d735c97390409d10c2\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\cd3084d7b62740d735c97390409d10c2\AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\a1245d1180ab835daa48a1a4f4540596\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\a1245d1180ab835daa48a1a4f4540596\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\1b18d58574dfcdab4d34a95ae93adda0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\1b18d58574dfcdab4d34a95ae93adda0\AndroidManifest.xml:22:5-94
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\351776a2b0e0fa58661b2b2ad2ff2ab7\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\351776a2b0e0fa58661b2b2ad2ff2ab7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\bf3eda55ff6e2261d3f0a8a381057ed7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\bf3eda55ff6e2261d3f0a8a381057ed7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\1b18d58574dfcdab4d34a95ae93adda0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:12:9-43
+	android:icon
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:10:9-38
+	android:allowBackup
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:8:9-33
+activity#me.jntalley.parstagram.LoadScreenActivity
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:15:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:19:27-74
+activity#me.jntalley.parstagram.MainActivity
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:22:19-47
+activity#me.jntalley.parstagram.HomeActivity
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:23:9-87
+	android:theme
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:23:48-84
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:23:19-47
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:27:13-60
+	android:exported
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:26:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:30:13-32:56
+	android:resource
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:32:17-53
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:31:17-67
+activity#me.jntalley.parstagram.CreatePostActivity
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:35:19-53
+activity#me.jntalley.parstagram.ProfileActivity
+ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:36:9-62
+	android:name
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml:36:19-50
+uses-sdk
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\7c4d81db7729372b03d74fdbe75b703b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\7c4d81db7729372b03d74fdbe75b703b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\4ff30a27fd454dddb17b48bc08f258e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\4ff30a27fd454dddb17b48bc08f258e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\31b02cbfc3117d4bfa6c80764c315977\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\31b02cbfc3117d4bfa6c80764c315977\AndroidManifest.xml:5:5-7:41
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:15:5-17:41
+MERGED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:15:5-17:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\cd3084d7b62740d735c97390409d10c2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\cd3084d7b62740d735c97390409d10c2\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\a1245d1180ab835daa48a1a4f4540596\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\a1245d1180ab835daa48a1a4f4540596\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\c70b7a191bc7af0a1cf370232e31b8f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\c70b7a191bc7af0a1cf370232e31b8f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\d3e99a8eff085952396281b6276ccb58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\d3e99a8eff085952396281b6276ccb58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\6d213bc0d32fe5bfc8c5cf6f92cdae78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\6d213bc0d32fe5bfc8c5cf6f92cdae78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\84f3f82aeb18c917ff0b7e4e39b7e0ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\84f3f82aeb18c917ff0b7e4e39b7e0ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\a994cc07ab4368dc65e2963f5d547a61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\a994cc07ab4368dc65e2963f5d547a61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\12419d9ea67f9b4dbde8f07cd73c829b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\12419d9ea67f9b4dbde8f07cd73c829b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\52cad9ccb19aef27036e91282ff32ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\52cad9ccb19aef27036e91282ff32ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\1ec0b51dfafdcc1891a660663d89034f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\1ec0b51dfafdcc1891a660663d89034f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\3bbe3f134d560937cc4e7aa9c5ee501a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\3bbe3f134d560937cc4e7aa9c5ee501a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\390987d979868263949c7cda03e134bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\390987d979868263949c7cda03e134bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\4b8df2019a4be9f2683d34e282b156bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\4b8df2019a4be9f2683d34e282b156bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b1f26100c6af193beddd6747bcfd85b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b1f26100c6af193beddd6747bcfd85b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\6ef700831c10ef12cb01437df3784695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\6ef700831c10ef12cb01437df3784695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\870224c0c5365cc59fb0cd547c81eea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\870224c0c5365cc59fb0cd547c81eea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\4304f5b236cfbe8039ffd76dbf0720db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\4304f5b236cfbe8039ffd76dbf0720db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\1b18d58574dfcdab4d34a95ae93adda0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\1b18d58574dfcdab4d34a95ae93adda0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\74a7d2c3ab03cd5b34fce978351c631c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\74a7d2c3ab03cd5b34fce978351c631c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\7ee06c964ad1cd61b189c3693714534f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\7ee06c964ad1cd61b189c3693714534f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\efb6d8df82a07eb1dfacd0e35801d775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\efb6d8df82a07eb1dfacd0e35801d775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\676e60929ca684441c50b0824a8a0947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\676e60929ca684441c50b0824a8a0947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\3485a9afdc30f46d521c91086066eeaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\3485a9afdc30f46d521c91086066eeaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\99c06c2daf6b7ad88641c225adce2431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\99c06c2daf6b7ad88641c225adce2431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\87dd1ec98aae1054d70b7c2ba8cf8799\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\87dd1ec98aae1054d70b7c2ba8cf8799\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9a8b9f2c7f02177b3fb931571106ca5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9a8b9f2c7f02177b3fb931571106ca5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3101c587d8e1cbc5c090263c0fb00018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3101c587d8e1cbc5c090263c0fb00018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\17e596201abe3a10703a34e7b80b0d01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\17e596201abe3a10703a34e7b80b0d01\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\351776a2b0e0fa58661b2b2ad2ff2ab7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\351776a2b0e0fa58661b2b2ad2ff2ab7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\bf3eda55ff6e2261d3f0a8a381057ed7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\bf3eda55ff6e2261d3f0a8a381057ed7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harmo\Desktop\InstagramRemake\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.parse:parse-android:1.17.3] C:\Users\harmo\.gradle\caches\transforms-1\files-1.1\parse-android-1.17.3.aar\e4c41a38655b84ddf0e4b6652b38a7da\AndroidManifest.xml:20:22-76
