@@ -1,4 +1,4 @@
-# Project 3 - *Instagram Cloent*
+# Project 3 - *Instagram Client*
 
 **Instagram Client** is a photo sharing app similar to Instagram but using Parse as its backend.
 
